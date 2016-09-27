@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This is the second assignment for the coursera course
+## R Programming
 
 ## Write a short comment describing this function
 
